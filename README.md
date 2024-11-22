@@ -24,6 +24,7 @@ Developed by: jb mohana chandran
 RegisterNumber: 212221080049 
 */
 ```
+```
  import numpy as np
  import matplotlib.pyplot as plt
  X=np.array(eval(input()))
@@ -42,7 +43,7 @@ RegisterNumber: 212221080049
  plt.scatter(X,Y)
  plt.plot(X,Y_pred,color="red")
  plt.show()
-
+```
 ## Output:
 ![Screenshot 2024-09-11 035339](https://github.com/user-attachments/assets/4c5e984e-4bf2-4067-a14c-10046c0309b1)
 
